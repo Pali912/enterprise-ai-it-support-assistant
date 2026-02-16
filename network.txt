@@ -1,9 +1,0 @@
-Network Troubleshooting Guide:
-
-If internet is not working:
-
-1. Restart router
-2. Check ethernet cable
-3. Run network troubleshooter
-4. Disable and enable network adapter
-5. Restart computer
