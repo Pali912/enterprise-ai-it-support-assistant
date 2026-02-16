@@ -1,0 +1,9 @@
+Software Installation Guide:
+
+To install software:
+
+1. Download from official website
+2. Right click installer
+3. Run as Administrator
+4. Follow installation wizard
+5. Restart system if required
